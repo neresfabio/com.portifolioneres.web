@@ -1,7 +1,7 @@
 # Guia de Desenvolvimento de Portfólio: Da Ideia à Apresentação.
 
-Este repositório tem como finalidade relatar todo o conhecimento envolvido no desenvolvimento do meu protifólio, tentando deixar organizado para que possa auxiliar outros em seus projetos.
-Se você leitor tem uma base conceitual de desenvolvimento de sofware, notará que conceitos de engenharia de software se faz presente.
+Se você enfrenta a mesma frustação que eu enfrentava é porque busca superar os mesmso desafios, por isso resolvi registrar como desenvolvi meu portifólio web.
+Este repositório tem como finalidade relatar todo o conhecimento envolvido, tentando deixar organizado para que possa auxiliar outros em seus projetos, desde levantamento de requisito a produção, não medi esforço para usar o que tem disponivel em tecnologia e que pode ser usado de forma gratuita.
 
 > ## O que é um portifólio?
 
