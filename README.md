@@ -1,4 +1,4 @@
-# Criando um portifólio.
+# Guia de Desenvolvimento de Portfólio: Da Ideia à Apresentação.
 
 Este repositório tem como finalidade relatar todo o conhecimento envolvido no desenvolvimento do meu protifólio, tentando deixar organizado para que possa auxiliar outros em seus projetos.
 Se você leitor tem uma base conceitual de desenvolvimento de sofware, notará que conceitos de engenharia de software se faz presente.
